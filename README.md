@@ -1,0 +1,1 @@
+# DFPD-Dual-Forgery-Proactive-Defense-against-Both-Deepfakes-and-Traditional-Image-Manipulations
